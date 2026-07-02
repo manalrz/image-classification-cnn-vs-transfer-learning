@@ -51,4 +51,4 @@ Python, PyTorch, scikit-learn (metrics)
 
 ## Team
 
-Manâl Rhazza, Marianne Cheron, Oumou N Dongo — ENSEIRB-MATMECA, supervised by Pedro Coutinho
+Manâl Rhazza, Marianne Cheron, Oumou N Dongo — ENSEIRB-MATMECA
